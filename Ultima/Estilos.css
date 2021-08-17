@@ -1,0 +1,51 @@
+<style type="text/css">
+h1 {
+color : blue;
+}
+  #navegador ul{
+    list-style-type: none;
+    text-align: center;
+  }
+  #navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 50px 0 0;
+  }
+  #navegador li a {
+    padding: 10px 7px 8px 7px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+  }
+  #navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+  }
+ body {
+		font: 12px 'Helvetica Neue', Helvetica, Arial, freesans, clean, sans-serif;
+		color: #333;
+	}
+	h1 {
+		font-size: 20px;
+	}
+	a {
+		color: #666;
+	}
+	#previewform {
+		display: none;
+		padding: 20px; 
+		text-align: center;
+	}
+	strong {
+		color: #333;
+		background-color: #FAFFA6;
+		padding: 0.1em;
+	}
+	#footer {
+		margin: 20px 0;
+		font-size: 10px;
+		color: #666;
+	}
+
+</style>
